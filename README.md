@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naxir Sheikh</h1>
 <h3 align="center">A passionate JavaScript Developer from the foothills of Himalayas!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/naxir" alt="https://github.com/naxir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naxir" alt="https://github.com/naxir" /> </p>
 
 - 🔭 I’m currently working on [Parsely](http://parsley.com/)
 
