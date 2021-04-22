@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [React Native](https://github.com/react-native-community/)
 
-- 📝 I regulary write articles on [https://medium.com/@naxir.sheikh](https://medium.com/@naxir.sheikh)
+- 📝 I regulary write articles on [https://naxir-sheikh.medium.com/](https://naxir-sheikh.medium.com/)
 
 - 💬 Ask me about **React , React Native ,JavsScript**
 
