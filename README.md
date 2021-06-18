@@ -14,7 +14,9 @@
 
 - ⚡ Fun fact **I love cycling!**
 
-- Apps links that i have worked on are 👇
+### PAST & PRESENT PROJECTS
+
+#### (React Native)
 - https://play.google.com/store/apps/details?id=com.parsleyapp.live
 - https://play.google.com/store/apps/details?id=com.baitussalam.rationapp 
 - https://apps.apple.com/gb/app/umii-meet-other-students/id1449602218
@@ -24,8 +26,6 @@
 - https://play.google.com/store/apps/details?id=com.esttp.gasable&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=carpal.customer&hl=en&gl=US
 - https://play.google.com/store/apps/details?id=uk.co.acornpartners.ahfa
-
-
 
 #### HIRE
 - [LinkedIn](https://www.linkedin.com/in/naxirsheikh/)
