@@ -18,6 +18,7 @@
 
 #### (React Native)
 - https://play.google.com/store/apps/details?id=com.parsleyapp.live
+- https://apps.apple.com/us/app/parsley/id1534303476
 - https://play.google.com/store/apps/details?id=com.baitussalam.rationapp 
 - https://apps.apple.com/gb/app/umii-meet-other-students/id1449602218
 - https://play.google.com/store/apps/details?id=app.umii.production&amp%3Bamp%3Bamp%3Bhl=en
