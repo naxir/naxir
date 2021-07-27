@@ -8,7 +8,7 @@
 
 - 📝 I regulary write articles on [https://naxir-sheikh.medium.com/](https://naxir-sheikh.medium.com/)
 
-- 💬 Ask me about **React , React Native ,JavsScript**
+- 💬 Ask me about **React , Hooks ,  React Native ,JavsScript**
 
 - 📫 How to reach me **naxir.sheikh@gmail.com**
 
