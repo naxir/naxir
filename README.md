@@ -34,5 +34,5 @@
 
 
 #### HIRE
-- [LinkedIn] (www.linkedin.com/in/naxirsheikh)
+- [LinkedIn] (https://www.linkedin.com/in/naxirsheikh)
 
