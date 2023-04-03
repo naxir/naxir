@@ -17,6 +17,8 @@
 ### PAST & PRESENT PROJECTS
 
 #### (React Native)
+- ArtApp Mobile (TestFlight)
+- The Vintage Bar (TestFlight)
 - https://play.google.com/store/apps/details?id=com.parsleyapp.live
 - https://apps.apple.com/us/app/parsley/id1534303476
 - https://play.google.com/store/apps/details?id=com.baitussalam.rationapp 
@@ -32,6 +34,7 @@
 #### (React JS)
 - https://playback.live/login
 - https://artapp.lighthouse.watch/
+- https://thevintagebar.com/
 
 
 #### HIRE
