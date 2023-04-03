@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JavaScript Developer from the foothills of Himalayas!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naxir" alt="https://github.com/naxir" /> </p>
 
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on React Native & React Projects.
 
 - 👯 I’m looking to collaborate on [React Native](https://github.com/react-native-community/)
 
